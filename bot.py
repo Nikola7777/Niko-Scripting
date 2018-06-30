@@ -91,4 +91,4 @@ async def Mamamia(ctx):
     for i in range (0,10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000):
         await bot.say("Niko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is best\nNiko is bestaw")
 
-bot.run("NDUzOTY1MTQ4MTAxNTQxOTAw.Df33LA.Sg6IhLBwRNXeWt5RBTF_3QoD-G4")
+bot(str(os.environ.get('TOKEN')))
